@@ -136,7 +136,7 @@ Steps:
 3. Product category sales have been displayed. When you hover over each product category, the top products in that category are displayed. Step 2's selection of a country will filter sales data by that nation's most popular product categories.
 4. The last three years' worth of Discrete time series sales data have been given with quarter-level granularity. Additionally, it will be filtered by country level.
 
-To view in Tableau Public and interact: https://public.tableau.com/views/SalesReport_16725440065730/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+To view in Tableau Public and interact: [https://public.tableau.com/views/SalesReport_16725440065730/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/authoring/SalesReport_16974354318880/SalebyCityMap#1)
 
 ![step 0](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/main%20dashboard.png "title")
 
