@@ -1,4 +1,4 @@
-# Data Wrangling, Extract Information and Visualization from Sales Raw Data - Python, SQL, Tableau
+# Sales Data Analysis for Investment (Data Wrangling, Extract Information and Visualization from Sales Raw Data - Python, SQL, Tableau)
 
 ## Summary
 I worked with data that required data wrangling to retrieve information that was useful. created a relational database with tables employing several pieces of data, including nations, regions, clients, goods, and orders. Identify the top-selling items, nations, and regions for each category (for example, Country) based on the total quantity of sales. Finally, additional very interesting information has been provided using dashboard in Tableau.
