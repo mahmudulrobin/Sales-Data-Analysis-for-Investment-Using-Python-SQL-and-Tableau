@@ -142,19 +142,19 @@ To view in Tableau Public and interact: https://public.tableau.com/app/profile/m
 
 Figure 1: Main Dashboard
 
-![step 1](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/country%20hover.png "title")
+![step 1](https://github.com/mahmudulrobin/Data-Wrangling-Extract-Information-and-Visualization-from-Sales-Raw-Data---Python-SQL-Tableau/blob/main/Viz%20Assets/country%20hover.png "title")
 
 Figure 2: Country Hover
 
-![step 2](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/select%20country.png "title")
+![step 2](https://github.com/mahmudulrobin/Data-Wrangling-Extract-Information-and-Visualization-from-Sales-Raw-Data---Python-SQL-Tableau/blob/main/Viz%20Assets/select%20country.png "title")
 
 Figure 3: Country Select
 
-![step 3](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/expand%20city%20level.png "title")
+![step 3](https://github.com/mahmudulrobin/Data-Wrangling-Extract-Information-and-Visualization-from-Sales-Raw-Data---Python-SQL-Tableau/blob/main/Viz%20Assets/expand%20city%20level.png "title")
 
 Figure 4: Expand to city level
 
-![step 4](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/product%20cat%20hover.png "title")
+![step 4](https://github.com/mahmudulrobin/Data-Wrangling-Extract-Information-and-Visualization-from-Sales-Raw-Data---Python-SQL-Tableau/blob/main/Viz%20Assets/product%20cat%20hover.png "title")
 
 Figure 5: Product Category Hover
 
