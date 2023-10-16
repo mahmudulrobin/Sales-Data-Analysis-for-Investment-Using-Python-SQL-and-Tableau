@@ -138,7 +138,7 @@ Steps:
 
 To view in Tableau Public and interact: https://public.tableau.com/app/profile/mahmudul.hasan.robin3087/viz/SalesReport_16974356247770/Dashboard1#1
 
-![step 0](https://github.com/Imrul2322/Data-Wrangling-and-Extract-information-using-Python-and-SQL/blob/main/Viz%20Assets/main%20dashboard.png "title")
+![step 0](https://github.com/mahmudulrobin/Data-Wrangling-Extract-Information-and-Visualization-from-Sales-Raw-Data---Python-SQL-Tableau/blob/main/Viz%20Assets/main%20dashboard.png "title")
 
 Figure 1: Main Dashboard
 
